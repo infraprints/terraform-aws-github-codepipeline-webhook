@@ -1,0 +1,16 @@
+---
+name: GitHub AWS CodePipeline Webhook Terraform module
+slug: webhook-codepipeline
+namespace: github
+project: infraprints
+description: Configures a webhook between a GitHub repository and AWS CodePipeline.
+license:
+  name: MIT
+tags:
+  - terraform
+  - terraform-module
+  - github
+  - github-webhooks
+  - webhooks
+  - aws
+  - aws-codepipeline
