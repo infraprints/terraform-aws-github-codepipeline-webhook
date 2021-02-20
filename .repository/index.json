@@ -1,0 +1,21 @@
+{
+  "slug": "terraform-aws-github-codepipeline-webhook",
+  "namespace": "infraprints",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "terraform",
+    "terraform-module",
+    "aws",
+    "aws-codepipeline",
+    "github",
+    "github-webhooks"
+  ],
+  "languages": [
+    "HCL"
+  ]
+}
