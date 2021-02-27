@@ -1,5 +1,5 @@
 {
   "name": "terraform-aws-github-codepipeline-webhook",
-  "url": "https://gitlab.com/infraprints/terraform-aws-github-codepipeline-webhook",
+  "url": "https://gitlab.com/infraprints/modules/terraform-aws-github-codepipeline-webhook",
   "status": "mirror"
 }
