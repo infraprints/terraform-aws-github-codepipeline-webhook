@@ -1,0 +1,8 @@
+SPDXVersion: SPDX-2.0
+DataLicense: MIT
+Creator: Jonathan R. Beverly
+Created: 2019
+PackageName: infraprints/terraform-aws-github-codepipeline-webhook
+PackageOriginator: Jonathan R. Beverly
+PackageHomePage: https://github.com/infraprints/terraform-aws-github-codepipeline-webhook
+PackageLicenseDeclared: MIT
